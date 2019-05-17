@@ -9,3 +9,9 @@
 **Today's Progress**: Learning Java on codegym.cc, spent a couple of hours today!
 
 **Thoughts** Enjoying Java so far, the focus in this early section is on printing on the screen and variables.
+
+### Day 2: May 16, 2019
+
+**Today's Progress**: Learning Java on codegym.cc, spent a couple more hours today!
+
+**Thoughts** Spent time learning about calling classes, syntax, etc. Starting to get a bit more difficult, but making my way through!
