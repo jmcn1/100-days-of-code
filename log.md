@@ -15,3 +15,9 @@
 **Today's Progress**: Learning Java on codegym.cc, spent a couple more hours today!
 
 **Thoughts** Spent time learning about calling classes, syntax, etc. Starting to get a bit more difficult, but making my way through!
+
+### Day 3: May 17, 2019
+
+**Today's Progress**: Learning Java on codegym.cc, spent about an hour today.
+
+**Thoughts** Things are starting to make more sense. Downloaded and started working in IntelliJ IDEA.
