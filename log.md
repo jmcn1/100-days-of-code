@@ -21,3 +21,9 @@
 **Today's Progress**: Learning Java on codegym.cc, spent about an hour today.
 
 **Thoughts** Things are starting to make more sense. Downloaded and started working in IntelliJ IDEA.
+
+### Day 4: May 18, 2019
+
+**Today's Progress**: Working through The Odin Project.
+
+**Thoughts** Spent alot of time today setting up Xubuntu in my VM and working in Ruby on Rails and HTML/CSS. Learned alot about Git/Github!
