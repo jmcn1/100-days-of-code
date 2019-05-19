@@ -27,3 +27,5 @@
 **Today's Progress**: Working through The Odin Project.
 
 **Thoughts** Spent alot of time today setting up Xubuntu in my VM and working in Ruby on Rails and HTML/CSS. Learned alot about Git/Github!
+
+Side note for future use: Tools/systems/OS I am currently working with: Java, HTML/CSS, Ruby (Ruby on Rails), Git/Github, Heroku, Linux (Xubuntu)
