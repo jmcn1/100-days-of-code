@@ -29,3 +29,11 @@
 **Thoughts** Spent alot of time today setting up Xubuntu in my VM and working in Ruby on Rails and HTML/CSS. Learned alot about Git/Github!
 
 Side note for future use: Tools/systems/OS I am currently working with: Java, HTML/CSS, Ruby (Ruby on Rails), Git/Github, Heroku, Linux (Xubuntu)
+
+### Day 5: May 19, 2019
+
+**Today's Progress**: Working through The Odin Project.
+
+**Thoughts** Worked on the "Google homepage" project. Not perfect, but pretty happy with it!.
+
+Side note for future use: Tools/systems/OS I am currently working with: Java, HTML/CSS, Ruby (Ruby on Rails), Git/Github, Heroku, Linux (Xubuntu)
