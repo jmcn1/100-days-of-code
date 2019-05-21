@@ -37,3 +37,11 @@ Side note for future use: Tools/systems/OS I am currently working with: Java, HT
 **Thoughts** Worked on the "Google homepage" project. Not perfect, but pretty happy with it!.
 
 Side note for future use: Tools/systems/OS I am currently working with: Java, HTML/CSS, Ruby (Ruby on Rails), Git/Github, Heroku, Linux (Xubuntu)
+
+### Day 6: May 20, 2019
+
+**Today's Progress**: Working through freeCodeCamp
+
+**Thoughts** Worked on accessability and responsive web design. Note to self: Do not try to dual boot on a Windows 10 laptop with octane memory. Almost killed the OS!
+
+Side note for future use: Tools/systems/OS I am currently working with: Java, HTML/CSS, Ruby (Ruby on Rails), Git/Github, Heroku, Linux (Xubuntu)
