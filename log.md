@@ -45,3 +45,11 @@ Side note for future use: Tools/systems/OS I am currently working with: Java, HT
 **Thoughts** Worked on accessability and responsive web design. Note to self: Do not try to dual boot on a Windows 10 laptop with octane memory. Almost killed the OS!
 
 Side note for future use: Tools/systems/OS I am currently working with: Java, HTML/CSS, Ruby (Ruby on Rails), Git/Github, Heroku, Linux (Xubuntu)
+
+### Day 7: May 21, 2019
+
+**Today's Progress**: Working through freeCodeCamp
+
+**Thoughts** Nearly through the first certification! Down to the responsive web design projects :) Tomorrow the projects begin! Today's focus was 100% CSS.
+
+Side note for future use: Tools/systems/OS I am currently working with: Java, HTML/CSS, Ruby (Ruby on Rails), Git/Github, Heroku, Linux (Xubuntu)
