@@ -53,3 +53,11 @@ Side note for future use: Tools/systems/OS I am currently working with: Java, HT
 **Thoughts** Nearly through the first certification! Down to the responsive web design projects :) Tomorrow the projects begin! Today's focus was 100% CSS.
 
 Side note for future use: Tools/systems/OS I am currently working with: Java, HTML/CSS, Ruby (Ruby on Rails), Git/Github, Heroku, Linux (Xubuntu)
+
+### Day 8-9: May 22-23, 2019
+
+**Progress**: Working through freeCodeCamp
+
+**Thoughts** Didn't get a chance to update yesterday, but the first project is complete (tribute page), now working on the survery form! So far so good!
+
+Side note for future use: Tools/systems/OS I am currently working with: Java, HTML/CSS, Ruby (Ruby on Rails), Git/Github, Heroku, Linux (Xubuntu)
