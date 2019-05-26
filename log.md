@@ -61,3 +61,11 @@ Side note for future use: Tools/systems/OS I am currently working with: Java, HT
 **Thoughts** Didn't get a chance to update yesterday, but the first project is complete (tribute page), now working on the survery form! So far so good!
 
 Side note for future use: Tools/systems/OS I am currently working with: Java, HTML/CSS, Ruby (Ruby on Rails), Git/Github, Heroku, Linux (Xubuntu)
+
+### Day 10-11: May 24-25, 2019
+
+**Progress**: Working through freeCodeCamp
+
+**Thoughts** Didn't get a chance to update yesterday, but the first 3 projects are done! Now working on the technical documentation page. Making sure all of my projects get uploaded to Github!
+
+Side note for future use: Tools/systems/OS I am currently working with: Java, HTML/CSS, Ruby (Ruby on Rails), Git/Github, Heroku, Linux (Xubuntu)
