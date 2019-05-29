@@ -77,3 +77,11 @@ Side note for future use: Tools/systems/OS I am currently working with: Java, HT
 **Thoughts** Didn't get a chance to update yesterday, focused on my last couple projects in responsive web design, decided to shift gears today and focus on Javascript.
 
 Side note for future use: Tools/systems/OS I am currently working with: JavaScript, Java, HTML/CSS, Ruby (Ruby on Rails), Git/Github, Heroku, Linux (Xubuntu)
+
+### Day 12-14: May 24-27, 2019
+
+**Progress**: Working through freeCodeCamp, then started developing my resume using HTML/CSS.
+
+**Thoughts** Wanted to start applying my education, on 5/28 I started building my resume using HTML/CSS, will clean it up over time and add JS. Want my resume to showcase my skills when I'm ready to apply for jobs.
+
+Side note for future use: Tools/systems/OS I am currently working with: JavaScript, Java, HTML/CSS, Ruby (Ruby on Rails), Git/Github, Heroku, Linux (Xubuntu)
